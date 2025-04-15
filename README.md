@@ -1,6 +1,6 @@
 # Full Stack Todo List Application
 
-A feature-rich todo list application built with Next.js for the frontend and Node.js/Express with MongoDB for the backend.
+A feature-rich todo list application built with React.js for the frontend and Node.js/Express with MongoDB for the backend.
 
 ## Features
 
